@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
-  s.source_files = 'AuthLibrary/Classes/**/AuthLibrary.swift'
+  s.source_files = 'Classes/**/*'
   s.swift_version = '5.0'
   
   # s.resource_bundles = {

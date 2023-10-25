@@ -109,12 +109,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		3A3A01472AE8E85600B2B010 /* Classes */ = {
+		3AC3F3502AE8F63E00DFBDB2 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				3A3A01482AE8E89D00B2B010 /* AuthLibrary.swift */,
 			);
-			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		4B2AB439CBB29FCEE02F57FEA26E2906 /* Pods-AuthLibrary_Tests */ = {
@@ -200,7 +200,7 @@
 		EC46972D46DEA4F4DD0301F6EFE96511 /* AuthLibrary */ = {
 			isa = PBXGroup;
 			children = (
-				3A3A01472AE8E85600B2B010 /* Classes */,
+				3AC3F3502AE8F63E00DFBDB2 /* Classes */,
 				654AF4E93DC866AA93194CD08D490575 /* Pod */,
 				ECAFC3C6CDB0F8CEE4891BC4C563F9DC /* Support Files */,
 			);
