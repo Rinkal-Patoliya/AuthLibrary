@@ -1,0 +1,22 @@
+{
+  "name": "AuthLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of AuthLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/divyeshgohil85/AuthLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "divyeshgohil85": "rinkal.patoliya@theonetechnologies.co.in"
+  },
+  "source": {
+    "git": "https://github.com/divyeshgohil85/AuthLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AuthLibrary/Classes/**/*"
+}

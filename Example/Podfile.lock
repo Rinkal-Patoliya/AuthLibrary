@@ -1,0 +1,16 @@
+PODS:
+  - AuthLibrary (0.1.0)
+
+DEPENDENCIES:
+  - AuthLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  AuthLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AuthLibrary: 07dc28851b018623f3ba30c263151427b172b94d
+
+PODFILE CHECKSUM: 68faa2fd014abc16141e5a57bfb22c96c06a946c
+
+COCOAPODS: 1.12.1
