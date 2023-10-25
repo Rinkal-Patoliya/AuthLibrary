@@ -22,7 +22,7 @@ pod 'AuthLibrary'
 
 ## Author
 
-divyeshgohil85, rinkal.patoliya@theonetechnologies.co.in
+Rinkal-Patoliya, rinkal.patoliya@theonetechnologies.co.in
 
 ## License
 
